@@ -1,7 +1,7 @@
 # Phishing Email Detection using various Machine Learning Techniques
 ## Problem Statement
 Email Communication is one of the most common modes of communication. However,
-phishing email one of the most serious Internet phenomenon. Phishing is a form of cybercrime where an attacker imitates a real person/institution by promoting them as an official person or entity through e-mail or other communication mediums. Hence, we need to find out different techniques to detect fraudulent emails.
+phishing email is one of the most serious Internet phenomenon. Phishing is a form of cybercrime where an attacker imitates a real person/institution by promoting them as an official person or entity through e-mail or other communication mediums. Hence, we need to find out different techniques to detect fraudulent emails.
 
 ## Objective
 Building different ML techniques to identify phishing email and comparing the performance of these ML techniques with respect to different metrics.
